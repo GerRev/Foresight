@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>270510268592-ejn71icqs4tqopglhlhv4nuro341pq34.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.270510268592-ejn71icqs4tqopglhlhv4nuro341pq34</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>270510268592-gv9jav6bg0nvelgbo30j2cniueaqla5g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrfu5zf20-dMBXgj811vWIuNpx2K7-Sh8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>270510268592</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>horgan.gerard.foresightMobile</string>
+	<key>PROJECT_ID</key>
+	<string>gaapix</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gaapix.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:270510268592:ios:4916b940b475d341c29b75</string>
+	<key>DATABASE_URL</key>
+	<string>https://gaapix.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "270510268592",
+    "firebase_url": "https://gaapix.firebaseio.com",
+    "project_id": "gaapix",
+    "storage_bucket": "gaapix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270510268592:android:eb25e4d164bd447dc29b75",
+        "android_client_info": {
+          "package_name": "com.a1manstartup.travel_budget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270510268592-klolthktjnop70oue5d42k60bcjrgfru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a1manstartup.travel_budget",
+            "certificate_hash": "0df2fd86c296c6f0934aa802f1ef668964ad25ea"
+          }
+        },
+        {
+          "client_id": "270510268592-lvfcgupvrdr5di2s8k3vof0f29qk7srr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQP8XL-xaw_640svPblN-t1xJhXJ1i-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270510268592-lvfcgupvrdr5di2s8k3vof0f29qk7srr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270510268592:android:49c09d3c28f3786cc29b75",
+        "android_client_info": {
+          "package_name": "horgan.gerard.foresight_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270510268592-gv9jav6bg0nvelgbo30j2cniueaqla5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "horgan.gerard.foresight_mobile",
+            "certificate_hash": "0df2fd86c296c6f0934aa802f1ef668964ad25ea"
+          }
+        },
+        {
+          "client_id": "270510268592-lvfcgupvrdr5di2s8k3vof0f29qk7srr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQP8XL-xaw_640svPblN-t1xJhXJ1i-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270510268592-lvfcgupvrdr5di2s8k3vof0f29qk7srr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270510268592:android:abb0300bf2800597",
+        "android_client_info": {
+          "package_name": "horgan.gerard.gaa_pics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270510268592-bk5nko309i2n6fu5bh260mqaacq4poir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "horgan.gerard.gaa_pics",
+            "certificate_hash": "832d83ff48fc339552a9fb4653732a8d6510f801"
+          }
+        },
+        {
+          "client_id": "270510268592-lvfcgupvrdr5di2s8k3vof0f29qk7srr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQP8XL-xaw_640svPblN-t1xJhXJ1i-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270510268592-lvfcgupvrdr5di2s8k3vof0f29qk7srr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
